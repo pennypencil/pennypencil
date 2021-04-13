@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pennypencil
-- 👀 I’m interested in information technology
+- 👀 I’m interested in getting paid more to do information technology stuff
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on mediocre beats
 - 📫 How to reach me: reeeeeeeeaaaach
